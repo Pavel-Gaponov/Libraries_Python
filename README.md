@@ -1,4 +1,4 @@
-# Pandas-and-SciPy
+
 Using the following libraries in data analysis via The Jupyter Notebook (Python):
 Pandas
 Scipy
